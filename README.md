@@ -1,4 +1,4 @@
-# Cześć, tu Jakub 👋
+# Cześć, tu Joachim 👋
 
 Frontend Developer (React) – uczę się też React Native i planuję ogarnąć backend w Pythonie.  
 Buduję responsywne sklepy i aplikacje webowe, znam Firestore & EmailJS.  
