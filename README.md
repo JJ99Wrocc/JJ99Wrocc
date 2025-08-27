@@ -79,4 +79,4 @@ React Native • Python (backend) • Node.js • Express.js • MongoDB • Nex
 
 ---
 
-✉️ Kontakt: **[tu wstaw swój e-mail]**
+✉️ Kontakt: Esangbedojoachim@gmail.com
