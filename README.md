@@ -4,7 +4,7 @@ Frontend Developer (React) – uczę się też React Native i planuję ogarnąć
 Buduję responsywne sklepy i aplikacje webowe, znam Firestore & EmailJS.  
 
 - 🌐 Portfolio: w trakcie budowy  
-- 🧩 Stack: HTML / CSS / JavaScript, React, Firestore, React Router  
+- 🧩 Stack: HTML / CSS / JavaScript, React, Firestore, React Router,- **TypeScript (opcjonalnie w wybranych komponentach)** – typowanie propsów i funkcji w React.
 - 📱 W planach: React Native, Python (backend), Node.js, Express, MongoDB  
 - ✉️ Kontakt: Esangbedojoachim@gmail.com
 - +48 791 881 256
