@@ -17,17 +17,14 @@ Buduję responsywne sklepy i aplikacje webowe, znam Firestore & EmailJS.
 Sklep internetowy w modelu **dropshipping** – React + Firestore.  
  Obsługa koszyka, logowanie, subskrypcje newslettera, integracja EmailJS.  - Projekt jeszcze nie skończony
 
-### [KolorSystem](https://github.com/JJ99Wrocc/KolorSystem)  
-Strona firmowa dla lokalnej firmy zajmującej się systemami kolorystycznymi.  
- Responsywna witryna w **React**, animacje AOS, podejście mobile-first.  
-
 ### [TrenujzJJ](https://github.com/JJ99Wrocc/TrenujzJJ)  
 Landing page dla usług **personalnego trenera MMA**.  
  Sekcja ofertowa, CTA do kontaktu i social media.  
  Projekt w **HTML + CSS (Bootstrap)** – prosty i szybki.  
-
-### [SIEMA](https://github.com/JJ99Wrocc/SIEMA)  
-Lekki projekt w HTML – responsywny landing page do testów.  
+ 
+### [KolorSystem](https://github.com/JJ99Wrocc/KolorSystem)  
+Strona firmowa dla lokalnej firmy zajmującej się systemami kolorystycznymi.  
+ Responsywna witryna w **React**, animacje AOS, podejście mobile-first.  
 
 ### [Geolocation](https://github.com/JJ99Wrocc/Geolocation)  
 Aplikacja JS wykorzystująca geolokalizację użytkownika.  
