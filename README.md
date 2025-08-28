@@ -6,24 +6,25 @@ Buduję responsywne sklepy i aplikacje webowe, znam Firestore & EmailJS.
 - 🌐 Portfolio: w trakcie budowy  
 - 🧩 Stack: HTML / CSS / JavaScript, React, Firestore, React Router  
 - 📱 W planach: React Native, Python (backend), Node.js, Express, MongoDB  
-- ✉️ Kontakt: Esangbedojoachim@gmail.com 
+- ✉️ Kontakt: Esangbedojoachim@gmail.com
+- +48 791 881 256
 
 ---
 
-## 🚀 Projekty wybrane
+##  Projekty wybrane
 
 ### [FLOWMART](https://github.com/JJ99Wrocc/FLOWMART)  
 Sklep internetowy w modelu **dropshipping** – React + Firestore.  
-✅ Obsługa koszyka, logowanie, subskrypcje newslettera, integracja EmailJS.  - Projekt jeszcze nie skończony
+ Obsługa koszyka, logowanie, subskrypcje newslettera, integracja EmailJS.  - Projekt jeszcze nie skończony
 
 ### [KolorSystem](https://github.com/JJ99Wrocc/KolorSystem)  
 Strona firmowa dla lokalnej firmy zajmującej się systemami kolorystycznymi.  
-✅ Responsywna witryna w **React**, animacje AOS, podejście mobile-first.  
+ Responsywna witryna w **React**, animacje AOS, podejście mobile-first.  
 
 ### [TrenujzJJ](https://github.com/JJ99Wrocc/TrenujzJJ)  
 Landing page dla usług **personalnego trenera MMA**.  
-✅ Sekcja ofertowa, CTA do kontaktu i social media.  
-✅ Projekt w **HTML + CSS (Bootstrap)** – prosty i szybki.  
+ Sekcja ofertowa, CTA do kontaktu i social media.  
+ Projekt w **HTML + CSS (Bootstrap)** – prosty i szybki.  
 
 ### [SIEMA](https://github.com/JJ99Wrocc/SIEMA)  
 Lekki projekt w HTML – responsywny landing page do testów.  
@@ -63,7 +64,7 @@ Symulator klasycznej zabawki Magic 8-ball w JS.
 
 ---
 
-## 🛠️ Umiejętności
+##  Umiejętności
 
 **Frontend**:  
 React • JavaScript (ES6+) • HTML5 • CSS3 • SCSS • Responsive Design • Bootstrap • Tailwind • Framer Motion • AOS  
@@ -80,3 +81,4 @@ React Native • Python (backend) • Node.js • Express.js • MongoDB • Nex
 ---
 
 ✉️ Kontakt: Esangbedojoachim@gmail.com
++48 791 881 256
