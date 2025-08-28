@@ -29,9 +29,6 @@ Strona firmowa dla lokalnej firmy zajmującej się systemami kolorystycznymi.
 ### [Geolocation](https://github.com/JJ99Wrocc/Geolocation)  
 Aplikacja JS wykorzystująca geolokalizację użytkownika.  
 
-### [React-ImageListAPI-missing-css](https://github.com/JJ99Wrocc/React-ImageListAPI-missing-css)  
-Projekt testujący API do pobierania listy obrazów w React.  
-
 ### [Countdown-timer](https://github.com/JJ99Wrocc/Countdown-timer)  
 Prosty licznik odliczający w JS/HTML.  
 
