@@ -24,10 +24,7 @@ Landing page dla usług **personalnego trenera MMA**.
  
 ### [KolorSystem](https://github.com/JJ99Wrocc/KolorSystem)  
 Strona firmowa dla lokalnej firmy zajmującej się systemami kolorystycznymi.  
- Responsywna witryna w **React**, animacje AOS, podejście mobile-first.  
-
-### [Geolocation](https://github.com/JJ99Wrocc/Geolocation)  
-Aplikacja JS wykorzystująca geolokalizację użytkownika.  
+ Responsywna witryna w **React**, animacje AOS, podejście mobile-first 
 
 ### [Countdown-timer](https://github.com/JJ99Wrocc/Countdown-timer)  
 Prosty licznik odliczający w JS/HTML.  
