@@ -13,7 +13,7 @@ Buduję responsywne sklepy i aplikacje webowe, znam Firestore & EmailJS.
 
 ##  Projekty wybrane
 
-### [FLOWMART](https://github.com/JJ99Wrocc/FLOWMART)  
+### [Ring4U](https://ring4u.pl/)  
 Sklep internetowy w modelu **dropshipping** – React + Firestore.  
  Obsługa koszyka, logowanie, subskrypcje newslettera, integracja EmailJS.  - Projekt jeszcze nie skończony
 
